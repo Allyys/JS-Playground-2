@@ -1,4 +1,4 @@
-# Intro to JavaScript workshop!
+# JavaScript Workshop #2
 
 Instructions
 
