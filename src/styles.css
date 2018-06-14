@@ -1,0 +1,31 @@
+* {
+  font-family: Arial;
+}
+
+li span {
+  font-family: courier;
+  padding: 0 0.5vw;
+}
+h4 {
+  background-color: rgba(240, 240, 240, 0.8);
+  width: 21vw;
+  padding: 2vh;
+}
+p {
+  margin-bottom: 20vh;
+}
+p span {
+  font-family: courier;
+  background-color: rgba(240, 240, 240, 0.8);
+  padding: 0.5vh;
+}
+.code-block-example {
+  background-color: rgba(240, 240, 240, 0.9);
+  width: 50vw;
+  padding: 3vh;
+  margin-top: -18vh;
+}
+.code-block-example span {
+  font-family: courier;
+  margin-left: 2vw;
+}
